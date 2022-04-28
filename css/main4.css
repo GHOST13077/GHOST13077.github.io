@@ -1,0 +1,158 @@
+body {
+  background-color: white;
+  margin: 0px 0px;
+  padding: 0;
+  background-repeat: no-repeat;
+  font-family: 'poppins';
+}
+
+.logo {
+  text-decoration: none;
+  font-weight: bold;
+  color: #707070;
+  font-size: 1.2em;
+  font-family: 'poppins';
+}
+
+.logo span {
+  color: #FF3D3D;
+  padding: 3;
+}
+
+nav {
+  width: 100%;
+  overflow: auto;
+  background: black;
+}
+
+ul {
+  padding: 0;
+  margin: 0 0 0 250px;
+  list-style: none;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  width: 100px;
+  display: block;
+  padding: 20px 15px;
+  text-decoration: none;
+  font-family: 'poppins';
+  color: White;
+  text-align: center;
+}
+
+li a:hover {
+  background: gray;
+  text-transform: uppercase;
+}
+
+.logo {
+  position: absolute;
+  margin-top: 18px;
+  margin-left: 15px;
+  font-weight: bold;
+  font-family: 'poppins';
+}
+
+img {
+  width: 30%;
+  margin: 20px 436px;
+}
+
+h1 {
+  margin: 39px 600px;
+}
+
+p {
+  text-align: center;
+}
+
+.GTAV1 {
+  text-align: center;
+}
+
+.GTAV2 {
+  text-align: center;
+}
+
+.GTAV {
+  line-height: 3px;
+}
+
+.h1 {
+  text-align: center;
+}
+
+.FC32 {
+  text-align: center;
+}
+
+h2 {
+  margin: 0px 609px;
+}
+
+.FC33 {
+  text-align: center;
+}
+
+.FC34 {
+  text-align: center;
+}
+
+.FC3 {
+  line-height: 3px;
+}
+
+p.FC32 {
+  margin: 23px 0px;
+}
+
+a.FC35 {
+  margin: 0px 323px;
+}
+
+a.FC35 {
+  font-family: 'poppins';
+  font-weight: bold;
+  text-decoration: none;
+  background-color: #d80388;
+  border: 3px solid #d80388;
+  color: white;
+  display: inline-block;
+  padding: 6px 22px;
+  text-decoration: none;
+  text-transform: uppercase;
+  position: relative;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  font-size: 1em;
+  line-height: 1.25em;
+  letter-spacing: 0.1em;
+  border-radius: 30px;
+  background-clip: padding-box;
+  margin: 2px 376px 0px;
+}
+
+a.FC36 {
+  background-color: #d80388;
+  border: 3px solid #d80388;
+  color: white;
+  display: inline-block;
+  padding: 6px 22px;
+  text-decoration: none;
+  text-transform: uppercase;
+  position: relative;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  font-size: 1em;
+  line-height: 1.25em;
+  letter-spacing: 0.1em;
+  border-radius: 30px;
+  background-clip: padding-box;
+  margin: 20px 20px 0px;
+}
+/*# sourceMappingURL=main4.css.map */
